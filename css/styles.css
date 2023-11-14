@@ -7,3 +7,6 @@
     color: tomato;
 }
 
+.test-link:active {
+    color: teal;
+}
